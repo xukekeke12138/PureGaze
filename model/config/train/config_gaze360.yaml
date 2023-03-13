@@ -9,7 +9,7 @@ params:
 save:
     metapath: "/home/chengyihua/work/PureGaze/camera-ready/exp/Res50-PureGaze/"
     folder: gaze360
-    name: eth
+    name: gaze360
     step: 10
 
 data:
